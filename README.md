@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sky8920
-- 👀 I’m interested in ... c,c# 
+- 👀 I’m interested in ... c,c#, python 
 - 🌱 I’m currently learning ...c
 - 💞️ I’m looking to collaborate on ...html 
 - 📫 How to reach me ...
